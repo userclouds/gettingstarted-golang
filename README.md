@@ -8,4 +8,4 @@ they should make things just a little bit easier.
 We've also tried to simplify the code to the bare minimum to see what's going on, so please apply actual software
 engineering practices to any code you write that derives from this!
 
-See [Getting Started With Plex](https://userclouds.com/getting-started-with-plex) for a more detailed guide.
+See [Getting Started With Plex](https://documentation.userclouds.com/home/authentication/sample-app) for a more detailed guide.
